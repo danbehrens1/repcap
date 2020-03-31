@@ -6,6 +6,9 @@ A Command line tool for quickly rewriting packet captures and replaying them.
 - repcap.py - main file - application itself
 - README.md - this file
 
+## Open Source Applications and Libraries
+[scapy](https://scapy.net/) Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks.
+
 # Command Line Tool that takes in arguments
 Current version supports 5 modes: passed to tool via -m argument
 * 0 - the ability to identify IP and MAC addresses in a packet capture - default when no mode provided
