@@ -15,7 +15,7 @@ Current version supports 5 modes: passed to tool via -m argument
 * 1 - the ability to replay a packet capture unaltered - must include interface to send it via -i argument
 * 2 - the ability to read in a packet capture and rewrite the IP and MAC Addresses and create a new packet capture file (.pcap)
 * 3 - the ability to read and rewrite ( same as 2 ) and then replay the capture ( with interface provided via -i argument )
-* 4 - a walk through to create a configuration file that will be used by modes 1 - 3 - Can finish with packet rewrite ( mode 2 )
+* 4 - a walk through to create a configuration file that will be used by modes 2 - 3 - Can finish with packet rewrite ( mode 2 )
 
 # Current Version 1.0 - initial release
 
